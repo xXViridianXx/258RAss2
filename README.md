@@ -1,2 +1,2 @@
-## To Create Datasets run: createDataset.ipynb
-### Run models
+# 158/258 Assignment 2:
+- To Create Datasets run cells in `createDataset.ipynb`
